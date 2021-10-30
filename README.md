@@ -5,7 +5,7 @@ recharging devices using invisible infrared light to excite electrons on a type 
 
 * think solar powered charging even in the dark (since infrared is invisible to the human field of vision
 
-to be utilized for low power consumer devices for recharging devices indoors even in dark environments with an infrared emitter
+to be utilized for low power consumer devices for recharging devices indoors even in dark environments with an infrared emitter (a home based lightbulb that emits invisible infrared light to power nearby devices with invisible infrared light)
 
 instead of qi wireless charging on a table top pad
 
